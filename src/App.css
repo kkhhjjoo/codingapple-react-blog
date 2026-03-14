@@ -27,3 +27,8 @@ section h4 {
   background: #eee;
   text-align: left;
 }
+.delete-btn {
+  position: relative;
+  right: -80px;
+  bottom: 10px;
+}
